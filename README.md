@@ -11,7 +11,8 @@ The solution was designed to help sales managers and sales representatives monit
 
 ## Dashboard Preview
 ![Dashboard Overview](images/dashboard-overview.png)
-
+![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/dashboard-overview.png)
 ---
 
 ## Business Problem
